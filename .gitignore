@@ -2,6 +2,10 @@
 .env
 .env.production
 
+# SSL certificates
+*.crt
+*.key
+
 # Node modules
 node_modules/
 
